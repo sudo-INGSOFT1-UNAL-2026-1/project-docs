@@ -43,6 +43,17 @@ Procuro entender todos los puntos de vista que todos tienen de tal manera que el
 El manejo del tiempo es una cuestion que espero poder mejorar en lo que se avanza en este proyecto.
 Adicionalmente, ha pasado un tiempo desde que estuve involucrado en el desarrollo de una aplicación, por lo que mi desempeño al inicio puede ser deficiente.
 
+## Wilson Franco
+
+### Rol que deseo desempeñar 
+Me gustaria integrarme tambien como desarrollador , talvez no centrandome tanto ni en programar ni en la parte tecnica sino tener estos dos puntos presentes casi al mismo nivel para poder tener una respuesta optima frente a inquietudes que se presenten en un futuro.
+
+### Fortalezas 
+mi principal fortaleza es mi versatilidad para identificar y solucionar problemas , de igual manera ya he manejado sistemas ERP y estoy familiarizado con varios modulos ERP
+
+### Aspectos a Mejorar
+tengo un largo camino por recorrer para optimizar mi codigo frente a desarrollo front ,mi manejo de tiempos no es el optimo ,entrego el trabajo en las fechas designadas ,pero no suelo tener un cronograma bienn establecido que pueda asumir contratiempos externos y me gustaria cambiar eso.
+
 ---
 
 ## APARTADO 2 – Compromisos del grupo
