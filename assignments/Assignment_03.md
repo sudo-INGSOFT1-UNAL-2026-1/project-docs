@@ -30,6 +30,20 @@ Considero que debo mejorar mi manejo del tiempo cuando tengo varias responsabili
 También quiero tener más confianza al proponer ideas técnicas o soluciones, ya que a veces dudo antes de decir lo que pienso. Además, quiero
 seguir fortaleciendo mis conocimientos en programación para aportar más al equipo.
 
+
+## Wilson Franco
+
+### Rol que deseo desempeñar 
+Me gustaria integrarme tambien como desarrollador , talvez no centrandome tanto ni en programar ni en la parte tecnica sino tener estos dos puntos presentes casi al mismo nivel para poder tener una respuesta optima frente a inquietudes que se presenten en un futuro.
+
+### Fortalezas 
+mi principal fortaleza es mi versatilidad para identificar y solucionar problemas , de igual manera ya he manejado sistemas ERP y estoy familiarizado con varios modulos ERP
+
+### Aspectos a Mejorar
+tengo un largo camino por recorrer para optimizar mi codigo frente a desarrollo front ,mi manejo de tiempos no es el optimo ,entrego el trabajo en las fechas designadas ,pero no suelo tener un cronograma bienn establecido que pueda asumir contratiempos externos y me gustaria cambiar eso.
+
+
+
 ---
 
 ## APARTADO 2 – Compromisos del grupo
@@ -47,3 +61,4 @@ seguir fortaleciendo mis conocimientos en programación para aportar más al equ
 - Cada integrante se compromete a **avisar con anticipación** al grupo cuando no pueda cumplir con una tarea o con una fecha acordada, con el fin de reorganizar el trabajo y evitar retrasos.
 
 - Las **decisiones técnicas y organizativas** se tomarán de manera conjunta, buscando el consenso del grupo. En caso de desacuerdos, se elegirá la opción más viable según el tiempo disponible y los objetivos del proyecto.
+
