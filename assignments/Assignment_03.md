@@ -28,8 +28,20 @@ Me gusta trabajar en equipo y aprender de otras personas. También intento ser r
 ### Aspectos por mejorar
 Considero que debo mejorar mi manejo del tiempo cuando tengo varias responsabilidades a la vez. 
 También quiero tener más confianza al proponer ideas técnicas o soluciones, ya que a veces dudo antes de decir lo que pienso. Además, quiero
-seguir fortaleciendo mis conocimientos en programación para aportar más al equipo.
+seguir fortaleciendo mis conocimientos en programación para aportar más al equipo
 
+
+## Juan P. Rodríguez B.
+
+**Rol dentro del equipo:**
+Me gustaria poder desempeñar el rol de desarrollador, pero tambien encargarme de la base de datos del proyecto.
+
+**Fortalezas principales:**
+Procuro entender todos los puntos de vista que todos tienen de tal manera que el desarrollo del proyecto sea el mejor posible.
+
+**Aspectos para mejorar:**
+El manejo del tiempo es una cuestion que espero poder mejorar en lo que se avanza en este proyecto.
+Adicionalmente, ha pasado un tiempo desde que estuve involucrado en el desarrollo de una aplicación, por lo que mi desempeño al inicio puede ser deficiente.
 
 ## Wilson Franco
 
@@ -41,8 +53,6 @@ mi principal fortaleza es mi versatilidad para identificar y solucionar problema
 
 ### Aspectos a Mejorar
 tengo un largo camino por recorrer para optimizar mi codigo frente a desarrollo front ,mi manejo de tiempos no es el optimo ,entrego el trabajo en las fechas designadas ,pero no suelo tener un cronograma bienn establecido que pueda asumir contratiempos externos y me gustaria cambiar eso.
-
-
 
 ---
 
@@ -61,4 +71,3 @@ tengo un largo camino por recorrer para optimizar mi codigo frente a desarrollo 
 - Cada integrante se compromete a **avisar con anticipación** al grupo cuando no pueda cumplir con una tarea o con una fecha acordada, con el fin de reorganizar el trabajo y evitar retrasos.
 
 - Las **decisiones técnicas y organizativas** se tomarán de manera conjunta, buscando el consenso del grupo. En caso de desacuerdos, se elegirá la opción más viable según el tiempo disponible y los objetivos del proyecto.
-
